@@ -166,3 +166,6 @@ amazon_tools/playwright/.auth
 ai/cache
 ai/chat_history.db
 ct-env
+
+# Trained models
+*.pkl
