@@ -169,3 +169,6 @@ ct-env
 
 # Trained models
 *.pkl
+
+# Bulldozer data
+data/bulldozer
