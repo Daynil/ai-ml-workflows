@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\Danny\AppData\Roaming\Python\Python39\Scripts\black.exe" />
+    <option name="sdkUUID" value="88eab1a1-cb2c-4f4b-9074-6f07e3dada68" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="F:\Coding\global-envs\ai-tink" project-jdk-type="Python SDK" />
+</project>
