@@ -171,4 +171,4 @@ ct-env
 *.pkl
 
 # Bulldozer data
-data/bulldozer
+structured_data/data/bulldozer
